@@ -23,10 +23,10 @@ int funk2(int y,int z){
 	    if(a1==0){
 	    	n=funk1(z);
 	    	if(n==0){
-	    		printf("%d is not prime bolen of %d\n",z,y);
+	    		printf("%d is not prime multiplier of %d\n",z,y);
 			} 
 			else{
-				printf("%d is prime bolen of %d\n",z,y);
+				printf("%d is prime multiplier of %d\n",z,y);
 			}
 		} 
 		z++;
