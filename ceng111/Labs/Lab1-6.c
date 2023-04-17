@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+//This program is for begginers for C
 
 int main() {
+
 	printf("Atilim univesity %d\n\n",1996);
 	printf("year of %d\n\n",2004);
 	printf("%.0lf /  %.0lf  = %lf\n\n",6.0,2.0,(6.0/2.0));
